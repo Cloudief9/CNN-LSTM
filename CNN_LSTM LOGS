@@ -1,0 +1,147 @@
+runfile('D:/data/Python Files/untitled8.py', wdir='D:/data/Python Files')
+C:\Users\Shivanta Sahoo\anaconda3\Lib\site-packages\keras\src\layers\activations\leaky_relu.py:41: UserWarning: Argument `alpha` is deprecated. Use `negative_slope` instead.
+  warnings.warn(
+Epoch 1/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 280ms/step - accuracy: 0.4470 - loss: 1.2316  
+Epoch 1: accuracy improved from -inf to 0.56349, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 496s 298ms/step - accuracy: 0.4470 - loss: 1.2314 - val_accuracy: 0.7356 - val_loss: 0.5934
+Epoch 2/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 273ms/step - accuracy: 0.7273 - loss: 0.5991  
+Epoch 2: accuracy improved from 0.56349 to 0.74374, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 475s 290ms/step - accuracy: 0.7273 - loss: 0.5990 - val_accuracy: 0.6993 - val_loss: 0.6448
+Epoch 3/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 269ms/step - accuracy: 0.7703 - loss: 0.5148  
+Epoch 3: accuracy improved from 0.74374 to 0.77397, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 470s 286ms/step - accuracy: 0.7703 - loss: 0.5148 - val_accuracy: 0.7889 - val_loss: 0.4715
+Epoch 4/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 275ms/step - accuracy: 0.7814 - loss: 0.4849  
+Epoch 4: accuracy improved from 0.77397 to 0.78266, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 480s 293ms/step - accuracy: 0.7814 - loss: 0.4849 - val_accuracy: 0.7986 - val_loss: 0.4448
+Epoch 5/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 273ms/step - accuracy: 0.7882 - loss: 0.4653  
+Epoch 5: accuracy improved from 0.78266 to 0.78963, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 476s 290ms/step - accuracy: 0.7883 - loss: 0.4652 - val_accuracy: 0.7851 - val_loss: 0.4629
+Epoch 6/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 269ms/step - accuracy: 0.7933 - loss: 0.4501  
+Epoch 6: accuracy improved from 0.78963 to 0.79838, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 469s 286ms/step - accuracy: 0.7934 - loss: 0.4500 - val_accuracy: 0.8118 - val_loss: 0.4074
+Epoch 7/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 269ms/step - accuracy: 0.8082 - loss: 0.4174  
+Epoch 7: accuracy improved from 0.79838 to 0.81521, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 469s 286ms/step - accuracy: 0.8082 - loss: 0.4174 - val_accuracy: 0.8264 - val_loss: 0.3741
+Epoch 8/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 268ms/step - accuracy: 0.8279 - loss: 0.3789  
+Epoch 8: accuracy improved from 0.81521 to 0.83211, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 468s 286ms/step - accuracy: 0.8279 - loss: 0.3789 - val_accuracy: 0.8397 - val_loss: 0.3525
+Epoch 9/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 273ms/step - accuracy: 0.8412 - loss: 0.3531  
+Epoch 9: accuracy improved from 0.83211 to 0.84111, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 476s 290ms/step - accuracy: 0.8412 - loss: 0.3531 - val_accuracy: 0.8358 - val_loss: 0.3603
+Epoch 10/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 269ms/step - accuracy: 0.8521 - loss: 0.3276  
+Epoch 10: accuracy improved from 0.84111 to 0.85298, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 470s 287ms/step - accuracy: 0.8521 - loss: 0.3276 - val_accuracy: 0.8600 - val_loss: 0.3105
+Epoch 11/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 272ms/step - accuracy: 0.8592 - loss: 0.3107  
+Epoch 11: accuracy improved from 0.85298 to 0.86123, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 475s 290ms/step - accuracy: 0.8592 - loss: 0.3107 - val_accuracy: 0.8652 - val_loss: 0.2969
+Epoch 12/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 271ms/step - accuracy: 0.8686 - loss: 0.2891  
+Epoch 12: accuracy improved from 0.86123 to 0.87034, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 473s 289ms/step - accuracy: 0.8686 - loss: 0.2891 - val_accuracy: 0.8529 - val_loss: 0.3119
+Epoch 13/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 272ms/step - accuracy: 0.8758 - loss: 0.2757  
+Epoch 13: accuracy improved from 0.87034 to 0.87598, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 475s 290ms/step - accuracy: 0.8758 - loss: 0.2757 - val_accuracy: 0.8798 - val_loss: 0.2633
+Epoch 14/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 269ms/step - accuracy: 0.8792 - loss: 0.2632  
+Epoch 14: accuracy improved from 0.87598 to 0.88223, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 469s 286ms/step - accuracy: 0.8792 - loss: 0.2632 - val_accuracy: 0.8814 - val_loss: 0.2577
+Epoch 15/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 269ms/step - accuracy: 0.8873 - loss: 0.2492  
+Epoch 15: accuracy improved from 0.88223 to 0.88864, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 469s 286ms/step - accuracy: 0.8873 - loss: 0.2492 - val_accuracy: 0.8858 - val_loss: 0.2480
+Epoch 16/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 268ms/step - accuracy: 0.8922 - loss: 0.2391  
+Epoch 16: accuracy improved from 0.88864 to 0.89307, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 468s 286ms/step - accuracy: 0.8922 - loss: 0.2391 - val_accuracy: 0.8888 - val_loss: 0.2440
+Epoch 17/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 267ms/step - accuracy: 0.8965 - loss: 0.2267  
+Epoch 17: accuracy improved from 0.89307 to 0.89893, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 466s 285ms/step - accuracy: 0.8965 - loss: 0.2267 - val_accuracy: 0.8890 - val_loss: 0.2373
+Epoch 18/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 271ms/step - accuracy: 0.9055 - loss: 0.2097  
+Epoch 18: accuracy improved from 0.89893 to 0.90416, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 473s 289ms/step - accuracy: 0.9055 - loss: 0.2097 - val_accuracy: 0.8853 - val_loss: 0.2468
+Epoch 19/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 278ms/step - accuracy: 0.9101 - loss: 0.2024  
+Epoch 19: accuracy improved from 0.90416 to 0.90794, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 484s 295ms/step - accuracy: 0.9101 - loss: 0.2024 - val_accuracy: 0.8982 - val_loss: 0.2235
+Epoch 20/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 277ms/step - accuracy: 0.9145 - loss: 0.1902  
+Epoch 20: accuracy improved from 0.90794 to 0.91357, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 482s 294ms/step - accuracy: 0.9145 - loss: 0.1902 - val_accuracy: 0.8920 - val_loss: 0.2436
+Epoch 21/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 280ms/step - accuracy: 0.9189 - loss: 0.1803  
+Epoch 21: accuracy improved from 0.91357 to 0.91852, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 487s 297ms/step - accuracy: 0.9189 - loss: 0.1803 - val_accuracy: 0.9010 - val_loss: 0.2169
+Epoch 22/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 273ms/step - accuracy: 0.9233 - loss: 0.1690  
+Epoch 22: accuracy improved from 0.91852 to 0.92272, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 477s 291ms/step - accuracy: 0.9233 - loss: 0.1690 - val_accuracy: 0.8981 - val_loss: 0.2277
+Epoch 23/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 275ms/step - accuracy: 0.9298 - loss: 0.1597  
+Epoch 23: accuracy improved from 0.92272 to 0.92840, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 480s 293ms/step - accuracy: 0.9298 - loss: 0.1597 - val_accuracy: 0.9033 - val_loss: 0.2170
+Epoch 24/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 275ms/step - accuracy: 0.9320 - loss: 0.1535  
+Epoch 24: accuracy improved from 0.92840 to 0.93253, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 479s 293ms/step - accuracy: 0.9320 - loss: 0.1535 - val_accuracy: 0.9014 - val_loss: 0.2233
+Epoch 25/25
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 0s 275ms/step - accuracy: 0.9382 - loss: 0.1417  
+Epoch 25: accuracy improved from 0.93253 to 0.93731, saving model to model_checkpoint.weights.h5
+1639/1639 ━━━━━━━━━━━━━━━━━━━━ 479s 293ms/step - accuracy: 0.9382 - loss: 0.1418 - val_accuracy: 0.9139 - val_loss: 0.2028
+820/820 ━━━━━━━━━━━━━━━━━━━━ 33s 40ms/step  
+C:\Users\Shivanta Sahoo\anaconda3\Lib\site-packages\keras\src\layers\activations\leaky_relu.py:41: UserWarning: Argument `alpha` is deprecated. Use `negative_slope` instead.
+  warnings.warn(
+C:\Users\Shivanta Sahoo\anaconda3\Lib\site-packages\keras\src\saving\saving_lib.py:576: UserWarning: Skipping variable loading for optimizer 'adam', because it has 2 variables whereas the saved optimizer has 64 variables. 
+  saveable.load_own_variables(weights_store.get(inner_path))
+820/820 - 32s - 39ms/step - accuracy: 0.9139 - loss: 0.2028
+Restored model, accuracy: 91.39%
+
+2024-07-19 23:12:35.117183: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:961] remapper failed: INVALID_ARGUMENT: Mutation::Apply error: fanout 'StatefulPartitionedCall/gradient_tape/functional_25_1/conv2d_96_1/leaky_re_lu_151_1/LeakyRelu/LeakyReluGrad' exist for missing node 'StatefulPartitionedCall/functional_25_1/conv2d_96_1/add'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
