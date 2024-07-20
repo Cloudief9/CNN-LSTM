@@ -1,2 +1,2 @@
 # CNN-LSTM
-Code for CNN-LSTM architecture
+This repositorty contains code for CNN-LSTM architecture
